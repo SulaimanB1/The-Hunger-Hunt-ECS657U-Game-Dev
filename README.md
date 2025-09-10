@@ -1,4 +1,4 @@
-# The Hunger Hunt (ECS657U Game Development Project)
+# The Hunger Hunt (QMUL ECS657U Game Development Project)
 
 A survival game made in Unity.
 
