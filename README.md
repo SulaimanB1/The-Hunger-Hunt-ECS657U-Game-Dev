@@ -1,6 +1,6 @@
 # ECS657U-Game-Dev-Project
 Link to WebGL Build:
-https://github.com/SulaimanB1/The-Hunger-Hunt-ECS657U-Game-Dev/Build/index.html
+https://sulaimanb1.github.io/The-Hunger-Hunt-ECS657U-Game-Dev/Build/index.html
 
 # How To Play
 Once Starting a new game you will spawn into a world. Main objective is to survive, you can complete side objectives for a challenge. The default controls are:<br>
