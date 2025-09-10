@@ -1,6 +1,7 @@
 # The Hunger Hunt (ECS657U Game Development Project)
 
 A survival game made in Unity.
+
 Link to WebGL Build:
 https://sulaimanb1.github.io/The-Hunger-Hunt-ECS657U-Game-Dev/Build/index.html
 
